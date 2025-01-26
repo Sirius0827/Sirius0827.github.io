@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Sirius
 
-You can use the [editor on GitHub](https://github.com/Sirius0827/Sirius0827.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can follow me at [Bilibili](https://b23.tv/ntvW9MU)
+QQ:[2980349482](https://qm.qq.com/q/LwYtttdmGO)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### about me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
